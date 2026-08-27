@@ -1,0 +1,177 @@
+Python
+JavaScript
+React
+Node.js
+Java
+Spring Boot
+MySQL
+MongoDB
+AWS
+Docker
+Kubernetes
+HTML
+CSS
+TypeScript
+Angular
+Vue.js
+PHP
+Laravel
+C#
+.NET
+Django
+Flask
+SQL
+Redis
+Git
+CI/CD
+Linux
+Azure
+GCP
+Machine Learning
+Data Science
+TensorFlow
+PyTorch
+NLP
+Computer Vision
+DevOps
+Security
+Network
+Android
+iOS
+Swift
+Kotlin
+React Native
+Flutter
+UI/UX Design
+Figma
+Adobe XD
+Project Management
+Agile
+Scrum
+Business Analysis
+Data Analysis
+Power BI
+Tableau
+Excel
+Communication Skills
+Team Management
+Leadership
+Problem Solving
+Critical Thinking
+Research
+Writing
+Marketing
+SEO
+SEM
+Content Writing
+Digital Marketing
+Social Media
+Sales
+CRM
+Financial Analysis
+Accounting
+Tally
+Taxation
+HR Management
+Recruitment
+Training
+Counseling
+Teaching
+Education
+Healthcare
+Nursing
+Pharmacy
+Medical
+Biotechnology
+Civil Engineering
+Mechanical Engineering
+Electrical Engineering
+Electronics
+Architecture
+Interior Design
+Law
+Legal Research
+Compliance
+Quality Assurance
+Testing
+Selenium
+JIRA
+REST API
+GraphQL
+Microservices
+Big Data
+Hadoop
+Spark
+Cassandra
+Elasticsearch
+Blockchain
+Solidity
+Smart Contracts
+Express.js
+Vuex
+Oracle
+Prototyping
+User Research
+Penetration Testing
+Risk Management
+Firebase
+Responsive Design
+Terraform
+Deep Learning
+Technical Documentation
+Customer Service
+Troubleshooting
+Windows
+LinkedIn
+Creativity
+Apex
+Neo4j
+R
+Google Analytics
+Backup
+Electronics
+Embedded Systems
+IoT
+Dart
+SwiftUI
+Combine
+Game Development
+Unity
+3D Modeling
+AutoCAD
+SketchUp
+CATIA
+ETAP
+Telecom
+Supply Chain
+Logistics
+Accounting
+Tally
+Taxation
+Pharmacy
+Medical
+Healthcare
+Nursing
+Teaching
+Education
+Counseling
+Civil Engineering
+Mechanical Engineering
+Electrical Engineering
+Architecture
+Interior Design
+Law
+Legal Research
+Compliance
+Robotics
+C++
+ROS
+DAX
+Kibana
+gRPC
+Airflow
+PostgreSQL
+Sidekiq
+SolidWorks
+Cypress
+Monitoring

@@ -1,0 +1,54 @@
+# Smart Job Portal Search System
+
+## Project Context
+
+This project is a smart job-search platform designed to help applicants find relevant jobs efficiently from a corpus of job postings using skills, location, experience, salary, and job type.
+
+## Problem Statement
+Traditional job portals rely heavily on keyword matching, often returning irrelevant results. Applicants must manually filter through hundreds of postings. There is no relevance ranking based on user profile or query context.
+
+## Objectives
+1. Implement efficient search with relevance ranking (0-100 score).
+2. Support multi-criteria filtering (skills, location, experience, salary, job type).
+3. Provide a modern, responsive, professional UI.
+4. Enable personalized job recommendations based on user profile.
+5. Support saved jobs and user profile management.
+
+## Search Ranking Methodology
+- Skill match: 60%
+- Location match: 20%
+- Experience match: 10%
+- Job type match: 5%
+- Salary preference match: 5%
+
+The score is normalized to a 0-100 scale.
+
+## Technology Stack
+- Frontend: React, JavaScript, HTML/CSS
+- Backend: Python, Flask
+- Database: MySQL
+- Deployment: Local development with VS Code, Git, GitHub
+
+## Data Corpus
+The system uses the following corpus files:
+- jobs.txt: 40 job postings with all required fields.
+- skills.txt: Comprehensive list of tech and non-tech skills.
+- locations.txt: Cities with aliases (e.g., Bangalore -> Bengaluru).
+- users.txt: Sample user profiles with skills and preferences.
+- search_queries.txt: Historical search queries for analytics.
+- project_context.txt: This file with project metadata.
+
+## Scope
+- Smart search with relevance ranking.
+- Advanced filtering.
+- Job details, user profiles, saved jobs.
+- Recommendation engine based on user skills.
+- Responsive, professional blue-themed UI.
+
+## Future Enhancements
+- Email notifications for new matching jobs.
+- Resume parsing and auto-profile creation.
+- Company reviews and ratings.
+- Interview scheduling integration.
+- Advanced analytics for recruiters.
+- Mobile app (React Native).

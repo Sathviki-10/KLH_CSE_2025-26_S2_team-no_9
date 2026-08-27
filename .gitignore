@@ -1,0 +1,45 @@
+# Node modules
+node_modules/
+/frontend/node_modules/
+
+# Build outputs
+/frontend/build/
+/frontend/dist/
+
+# Java
+/backend/target/
+/backend/.mvn/
+/backend/mvnw
+/backend/mvnw.cmd
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# MySQL
+*.sql
+!database/schema.sql
+
+# Misc
+*.log
+*.tmp
+*.temp
