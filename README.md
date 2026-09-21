@@ -75,10 +75,6 @@ Traditional job portals suffer from information overload, returning hundreds of 
 - Maven for dependency management
 - Lombok for boilerplate reduction
 
-### Database
-- MySQL 8.0
-- JDBC connector
-
 ### Development Tools
 - VS Code / IntelliJ IDEA
 - Git & GitHub
@@ -139,12 +135,7 @@ git clone <repository-url>
 cd Smart-Job-Portal-Search-System
 ```
 
-### 2. Database Setup
 
-#### Create MySQL Database
-```sql
-CREATE DATABASE IF NOT EXISTS smart_job_portal;
-```
 
 #### Run Schema Script
 ```bash
@@ -232,7 +223,6 @@ All responses follow this structure:
 }
 ```
 
-## Database Structure
 
 ### Tables
 
