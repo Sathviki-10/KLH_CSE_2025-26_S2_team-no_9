@@ -1,0 +1,9 @@
+﻿Job ID: 88
+Title: Senior Developer
+Company: Digital Dynamics
+Location: Jaipur
+Description: We are looking for a skilled Senior Developer to join our team at Digital Dynamics in Jaipur. The ideal candidate will have experience with Android, Flutter, PHP, Project Management, Vue.js and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 1-5 years
+Salary: 6-17 LPA
+Job Type: Part-time
+Skills: Android, Flutter, PHP, Project Management, Vue.js

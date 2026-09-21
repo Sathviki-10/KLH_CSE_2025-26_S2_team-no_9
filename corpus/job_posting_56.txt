@@ -1,0 +1,9 @@
+﻿Job ID: 56
+Title: Software Engineer
+Company: NexGen Cloud Services
+Location: Kochi
+Description: We are looking for a skilled Software Engineer to join our team at NexGen Cloud Services in Kochi. The ideal candidate will have experience with iOS, Spring Boot, TensorFlow and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 2-5 years
+Salary: 10-31 LPA
+Job Type: Part-time
+Skills: iOS, Spring Boot, TensorFlow

@@ -1,0 +1,9 @@
+﻿Job ID: 11
+Title: Backend Developer
+Company: SecureNet Solutions
+Location: Ahmedabad
+Description: We are looking for a skilled Backend Developer to join our team at SecureNet Solutions in Ahmedabad. The ideal candidate will have experience with CSS, JavaScript, NLP, PHP, Spring Boot, TensorFlow and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 3-7 years
+Salary: 10-30 LPA
+Job Type: Part-time
+Skills: CSS, JavaScript, NLP, PHP, Spring Boot, TensorFlow

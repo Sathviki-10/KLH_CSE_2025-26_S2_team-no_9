@@ -1,0 +1,9 @@
+﻿Job ID: 27
+Title: Cloud Architect
+Company: CryptoChain Labs
+Location: Pune
+Description: We are looking for a skilled Cloud Architect to join our team at CryptoChain Labs in Pune. The ideal candidate will have experience with Data Science, HTML, Java, TensorFlow, TypeScript and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 3-5 years
+Salary: 12-33 LPA
+Job Type: Remote
+Skills: Data Science, HTML, Java, TensorFlow, TypeScript

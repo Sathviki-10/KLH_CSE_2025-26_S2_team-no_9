@@ -15,12 +15,12 @@ const Profile = ({ user }) => {
     const fetchData = async () => {
       if (!user) return;
       try {
-        const profileData = await getUser(user.id);
-        setProfile(profileData.user);
-        const recs = await getRecommendations(user.id);
-        setRecommendations(recs.recommendations || []);
-        const saved = await getSavedJobs(user.id);
-        setSavedJobs(saved.saved_jobs || []);
+      const profileData = await getUser(user.id);
+      setProfile(profileData);
+      const recs = await getRecommendations(user.id);
+      setRecommendations(recs.recommendations || []);
+      const saved = await getSavedJobs(user.id);
+      setSavedJobs(saved.saved_jobs || []);
       } catch (err) {
         console.error(err);
       } finally {

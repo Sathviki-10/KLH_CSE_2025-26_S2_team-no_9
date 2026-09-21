@@ -1,0 +1,9 @@
+﻿Job ID: 86
+Title: QA Engineer
+Company: TechCorp Solutions
+Location: Bangalore
+Description: We are looking for a skilled QA Engineer to join our team at TechCorp Solutions in Bangalore. The ideal candidate will have experience with Angular, DevOps, MongoDB, PHP, Project Management and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 2-5 years
+Salary: 9-21 LPA
+Job Type: Part-time
+Skills: Angular, DevOps, MongoDB, PHP, Project Management

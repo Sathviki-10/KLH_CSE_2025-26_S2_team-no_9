@@ -1,0 +1,9 @@
+﻿Job ID: 81
+Title: Data Scientist
+Company: Quality First Systems
+Location: Kochi
+Description: We are looking for a skilled Data Scientist to join our team at Quality First Systems in Kochi. The ideal candidate will have experience with Agile, Kubernetes, Python and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 2-6 years
+Salary: 14-31 LPA
+Job Type: Part-time
+Skills: Agile, Kubernetes, Python

@@ -1,0 +1,9 @@
+﻿Job ID: 4
+Title: Network Engineer
+Company: NexGen Cloud Services
+Location: Chandigarh
+Description: We are looking for a skilled Network Engineer to join our team at NexGen Cloud Services in Chandigarh. The ideal candidate will have experience with Agile, AWS, C#, Laravel, TensorFlow, TypeScript and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 2-4 years
+Salary: 14-38 LPA
+Job Type: Contract
+Skills: Agile, AWS, C#, Laravel, TensorFlow, TypeScript

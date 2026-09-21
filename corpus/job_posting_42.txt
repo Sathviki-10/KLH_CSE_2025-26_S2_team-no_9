@@ -1,0 +1,9 @@
+﻿Job ID: 42
+Title: Senior Developer
+Company: NeuralTech AI
+Location: Kolkata
+Description: We are looking for a skilled Senior Developer to join our team at NeuralTech AI in Kolkata. The ideal candidate will have experience with Agile, CSS, iOS, Kubernetes, PHP, React Native and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 2-5 years
+Salary: 8-28 LPA
+Job Type: Contract
+Skills: Agile, CSS, iOS, Kubernetes, PHP, React Native

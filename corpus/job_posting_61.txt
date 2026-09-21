@@ -1,0 +1,9 @@
+﻿Job ID: 61
+Title: Backend Developer
+Company: CryptoChain Labs
+Location: Noida
+Description: We are looking for a skilled Backend Developer to join our team at CryptoChain Labs in Noida. The ideal candidate will have experience with .NET, HTML, Kubernetes and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 2-6 years
+Salary: 6-27 LPA
+Job Type: Part-time
+Skills: .NET, HTML, Kubernetes

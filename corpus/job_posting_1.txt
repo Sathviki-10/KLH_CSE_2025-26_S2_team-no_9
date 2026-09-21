@@ -1,0 +1,9 @@
+﻿Job ID: 1
+Title: Software Engineer
+Company: CloudScale Technologies
+Location: Visakhapatnam
+Description: We are looking for a skilled Software Engineer to join our team at CloudScale Technologies in Visakhapatnam. The ideal candidate will have experience with Flask, Kubernetes, PHP, Python, PyTorch, Vue.js and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 3-7 years
+Salary: 7-29 LPA
+Job Type: Remote
+Skills: Flask, Kubernetes, PHP, Python, PyTorch, Vue.js

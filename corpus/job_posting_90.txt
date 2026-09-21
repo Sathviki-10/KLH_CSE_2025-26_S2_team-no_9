@@ -1,0 +1,9 @@
+﻿Job ID: 90
+Title: UI/UX Designer
+Company: MobileFirst Apps
+Location: Mangalore
+Description: We are looking for a skilled UI/UX Designer to join our team at MobileFirst Apps in Mangalore. The ideal candidate will have experience with DevOps, Docker, Flutter, HTML, React Native, Redis and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 1-5 years
+Salary: 14-31 LPA
+Job Type: Contract
+Skills: DevOps, Docker, Flutter, HTML, React Native, Redis

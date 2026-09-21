@@ -1,0 +1,9 @@
+﻿Job ID: 96
+Title: Software Engineer
+Company: AI Innovations Lab
+Location: Visakhapatnam
+Description: We are looking for a skilled Software Engineer to join our team at AI Innovations Lab in Visakhapatnam. The ideal candidate will have experience with Data Science, JavaScript, Laravel and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 3-7 years
+Salary: 11-26 LPA
+Job Type: Internship
+Skills: Data Science, JavaScript, Laravel

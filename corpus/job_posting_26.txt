@@ -1,0 +1,9 @@
+﻿Job ID: 26
+Title: Backend Developer
+Company: AppVenture Studios
+Location: Ahmedabad
+Description: We are looking for a skilled Backend Developer to join our team at AppVenture Studios in Ahmedabad. The ideal candidate will have experience with AWS, Docker, Machine Learning, Project Management and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 1-4 years
+Salary: 14-36 LPA
+Job Type: Remote
+Skills: AWS, Docker, Machine Learning, Project Management

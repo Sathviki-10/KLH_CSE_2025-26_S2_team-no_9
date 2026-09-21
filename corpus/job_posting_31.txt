@@ -1,0 +1,9 @@
+﻿Job ID: 31
+Title: Database Administrator
+Company: MobileFirst Apps
+Location: Chandigarh
+Description: We are looking for a skilled Database Administrator to join our team at MobileFirst Apps in Chandigarh. The ideal candidate will have experience with AWS, DevOps, React, React Native, SQL and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 3-7 years
+Salary: 10-26 LPA
+Job Type: Internship
+Skills: AWS, DevOps, React, React Native, SQL

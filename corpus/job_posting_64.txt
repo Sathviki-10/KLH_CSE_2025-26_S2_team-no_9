@@ -1,0 +1,9 @@
+﻿Job ID: 64
+Title: Database Administrator
+Company: ConsultPro Services
+Location: Chennai
+Description: We are looking for a skilled Database Administrator to join our team at ConsultPro Services in Chennai. The ideal candidate will have experience with Flask, HTML, Project Management and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 2-4 years
+Salary: 14-28 LPA
+Job Type: Full-time
+Skills: Flask, HTML, Project Management

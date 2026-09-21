@@ -1,5 +1,6 @@
 package com.smartjobportal.model;
 
+import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
@@ -17,6 +18,7 @@ public class Job {
     private String description;
     private String experience;
     private String salary;
+    @JsonProperty("job_type")
     private String jobType;
     private LocalDateTime createdAt;
 }

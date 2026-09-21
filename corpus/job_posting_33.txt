@@ -1,0 +1,9 @@
+﻿Job ID: 33
+Title: Machine Learning Engineer
+Company: GrowthBoost Media
+Location: Gurgaon
+Description: We are looking for a skilled Machine Learning Engineer to join our team at GrowthBoost Media in Gurgaon. The ideal candidate will have experience with C#, CSS, Docker, Flask, iOS, Java and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 1-5 years
+Salary: 6-21 LPA
+Job Type: Part-time
+Skills: C#, CSS, Docker, Flask, iOS, Java

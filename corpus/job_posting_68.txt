@@ -1,0 +1,9 @@
+﻿Job ID: 68
+Title: Security Analyst
+Company: WebWizards Pvt Ltd
+Location: Kolkata
+Description: We are looking for a skilled Security Analyst to join our team at WebWizards Pvt Ltd in Kolkata. The ideal candidate will have experience with C#, MySQL, Scrum and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 3-5 years
+Salary: 5-27 LPA
+Job Type: Part-time
+Skills: C#, MySQL, Scrum

@@ -1,0 +1,9 @@
+﻿Job ID: 29
+Title: Mobile Developer
+Company: AI Innovations Lab
+Location: Hyderabad
+Description: We are looking for a skilled Mobile Developer to join our team at AI Innovations Lab in Hyderabad. The ideal candidate will have experience with .NET, Docker, HTML, NLP, PHP, React Native and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 1-5 years
+Salary: 11-32 LPA
+Job Type: Internship
+Skills: .NET, Docker, HTML, NLP, PHP, React Native

@@ -37,6 +37,9 @@ public class DataService {
         loadUsers();
         loadJobs();
         loadSavedJobs();
+        if (jobs.isEmpty()) {
+            throw new IllegalStateException("No jobs loaded from data/jobs.txt");
+        }
     }
 
     private void loadSkills() {
@@ -155,9 +158,10 @@ public class DataService {
         return jobSkills.getOrDefault(jobId, Collections.emptyList());
     }
 
-    public List<Job> searchJobs(String query, String location, String experience, String jobType, String salary, String company) {
+    public List<Job> searchJobs(String query, String skills, String location, String experience, String jobType, String salary, String company) {
         return jobs.stream()
                 .filter(job -> matchesQuery(job, query))
+                .filter(job -> matchesSkills(job, skills))
                 .filter(job -> matchesLocation(job, location))
                 .filter(job -> matchesExperience(job, experience))
                 .filter(job -> matchesJobType(job, jobType))
@@ -169,15 +173,28 @@ public class DataService {
     private boolean matchesQuery(Job job, String query) {
         if (query == null || query.isBlank()) return true;
         String q = query.toLowerCase();
-        return job.getTitle().toLowerCase().contains(q) ||
-               job.getCompany().toLowerCase().contains(q) ||
-               job.getDescription().toLowerCase().contains(q);
+        return containsIgnoreCase(job.getTitle(), q) ||
+               containsIgnoreCase(job.getCompany(), q) ||
+               containsIgnoreCase(job.getDescription(), q);
+    }
+
+    private boolean matchesSkills(Job job, String skillsFilter) {
+        if (skillsFilter == null || skillsFilter.isBlank()) return true;
+        List<String> jobSkillNames = getSkillsForJob(job.getId()).stream()
+                .map(Skill::getSkillName)
+                .map(String::toLowerCase)
+                .toList();
+        return Arrays.stream(skillsFilter.split(","))
+                .map(String::trim)
+                .filter(skill -> !skill.isBlank())
+                .allMatch(requested -> jobSkillNames.stream()
+                        .anyMatch(available -> available.contains(requested.toLowerCase()) || requested.toLowerCase().contains(available)));
     }
 
     private boolean matchesLocation(Job job, String location) {
         if (location == null || location.isBlank()) return true;
         String loc = location.toLowerCase();
-        String jobLoc = job.getLocation().toLowerCase();
+        String jobLoc = safeLower(job.getLocation());
         if (jobLoc.contains(loc) || loc.contains(jobLoc)) return true;
         Map<String, String> aliases = Map.ofEntries(
                 Map.entry("bangalore", "bengaluru"),
@@ -199,22 +216,30 @@ public class DataService {
 
     private boolean matchesExperience(Job job, String experience) {
         if (experience == null || experience.isBlank()) return true;
-        return job.getExperience().toLowerCase().contains(experience.toLowerCase());
+        return containsIgnoreCase(job.getExperience(), experience);
     }
 
     private boolean matchesJobType(Job job, String jobType) {
         if (jobType == null || jobType.isBlank()) return true;
-        return job.getJobType().toLowerCase().contains(jobType.toLowerCase());
+        return containsIgnoreCase(job.getJobType(), jobType);
     }
 
     private boolean matchesCompany(Job job, String company) {
         if (company == null || company.isBlank()) return true;
-        return job.getCompany().toLowerCase().contains(company.toLowerCase());
+        return containsIgnoreCase(job.getCompany(), company);
     }
 
     private boolean matchesSalary(Job job, String salary) {
         if (salary == null || salary.isBlank()) return true;
-        return job.getSalary().toLowerCase().contains(salary.toLowerCase());
+        return containsIgnoreCase(job.getSalary(), salary);
+    }
+
+    private boolean containsIgnoreCase(String value, String query) {
+        return safeLower(value).contains(safeLower(query));
+    }
+
+    private String safeLower(String value) {
+        return value == null ? "" : value.toLowerCase(Locale.ROOT);
     }
 
     public User authenticate(String email, String password) {

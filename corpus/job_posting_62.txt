@@ -1,0 +1,9 @@
+﻿Job ID: 62
+Title: Database Administrator
+Company: WebWizards Pvt Ltd
+Location: Mumbai
+Description: We are looking for a skilled Database Administrator to join our team at WebWizards Pvt Ltd in Mumbai. The ideal candidate will have experience with Angular, Data Science, Java, JavaScript, Spring Boot and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 1-4 years
+Salary: 10-26 LPA
+Job Type: Contract
+Skills: Angular, Data Science, Java, JavaScript, Spring Boot

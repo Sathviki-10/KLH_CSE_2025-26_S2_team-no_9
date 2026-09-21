@@ -1,0 +1,9 @@
+﻿Job ID: 39
+Title: Product Manager
+Company: GrowthBoost Media
+Location: Bhubaneswar
+Description: We are looking for a skilled Product Manager to join our team at GrowthBoost Media in Bhubaneswar. The ideal candidate will have experience with C#, HTML, Project Management and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 3-7 years
+Salary: 14-36 LPA
+Job Type: Remote
+Skills: C#, HTML, Project Management

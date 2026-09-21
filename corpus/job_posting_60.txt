@@ -1,0 +1,9 @@
+﻿Job ID: 60
+Title: UI/UX Designer
+Company: StartupHub India
+Location: Noida
+Description: We are looking for a skilled UI/UX Designer to join our team at StartupHub India in Noida. The ideal candidate will have experience with Android, Kubernetes, MongoDB, Spring Boot and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 1-5 years
+Salary: 9-31 LPA
+Job Type: Remote
+Skills: Android, Kubernetes, MongoDB, Spring Boot

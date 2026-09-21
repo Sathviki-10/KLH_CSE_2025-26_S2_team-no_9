@@ -13,6 +13,7 @@ const JobResults = ({ user }) => {
   const [total, setTotal] = useState(0);
   const [sort, setSort] = useState('relevance');
   const [showFilters, setShowFilters] = useState(false);
+  const [data, setData] = useState(null);
   const limit = 12;
 
   const [filters, setFilters] = useState({
@@ -42,9 +43,10 @@ const JobResults = ({ user }) => {
         page,
         limit
       };
-      const data = await searchJobs(params);
-      setJobs(data.jobs || []);
-      setTotal(data.total || 0);
+      const result = await searchJobs(params);
+      setData(result);
+      setJobs(result.jobs || []);
+      setTotal(result.total || 0);
     } catch (err) {
       console.error(err);
     } finally {
@@ -148,14 +150,13 @@ const JobResults = ({ user }) => {
           <div className="spinner"></div>
           <p>Searching jobs...</p>
         </div>
-      ) : jobs.length === 0 ? (
-        <div className="empty-state">
-          <div className="empty-icon">🔍</div>
-          <h3>No jobs found</h3>
-          <p>Try adjusting your search criteria or filters</p>
-        </div>
       ) : (
         <>
+          {data?.is_fallback && (
+            <div className="fallback-notice">
+              <p>{data?.message || 'Showing related jobs based on your search.'}</p>
+            </div>
+          )}
           <div className="job-grid">
             {jobs.map(job => (
               <JobCard key={job.id} job={job} />

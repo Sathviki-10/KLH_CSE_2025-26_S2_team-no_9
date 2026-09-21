@@ -1,0 +1,9 @@
+﻿Job ID: 41
+Title: Machine Learning Engineer
+Company: CloudScale Technologies
+Location: Bhubaneswar
+Description: We are looking for a skilled Machine Learning Engineer to join our team at CloudScale Technologies in Bhubaneswar. The ideal candidate will have experience with .NET, Android, DevOps, Flask, iOS and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 3-6 years
+Salary: 5-27 LPA
+Job Type: Remote
+Skills: .NET, Android, DevOps, Flask, iOS

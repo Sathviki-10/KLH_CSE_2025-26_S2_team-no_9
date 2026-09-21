@@ -1,0 +1,9 @@
+﻿Job ID: 100
+Title: Project Manager
+Company: NeuralTech AI
+Location: Noida
+Description: We are looking for a skilled Project Manager to join our team at NeuralTech AI in Noida. The ideal candidate will have experience with Angular, iOS, MySQL, Node.js, PHP and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 1-4 years
+Salary: 5-16 LPA
+Job Type: Remote
+Skills: Angular, iOS, MySQL, Node.js, PHP

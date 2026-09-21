@@ -22,19 +22,30 @@ const Login = ({ onLogin }) => {
     setLoading(true);
     try {
       if (isRegister) {
-        const data = await createUser(formData);
-        const newUser = data.data || { id: Date.now(), name: formData.name, email: formData.email };
-        onLogin(newUser);
+        const newUser = await createUser(formData);
+        if (newUser && newUser.id) {
+          onLogin(newUser);
+        } else {
+          setError('Registration failed. Please try again.');
+        }
       } else {
         const data = await login(formData.email, formData.password);
-        if (data.success && data.data) {
-          onLogin(data.data);
+        if (data && data.id) {
+          onLogin(data);
         } else {
-          setError(data.message || 'Invalid credentials');
+          setError(data?.error || 'Invalid email or password');
         }
       }
     } catch (err) {
-      setError(err.response?.data?.message || 'Something went wrong');
+      const status = err?.response?.status;
+      const backendMsg = err?.response?.data?.error || err?.response?.data?.message;
+      if (status === 0 || status === undefined) {
+        setError('Cannot connect to server. Please ensure backend is running on port 8080.');
+      } else if (backendMsg) {
+        setError(backendMsg);
+      } else {
+        setError('Something went wrong. Please try again.');
+      }
     } finally {
       setLoading(false);
     }

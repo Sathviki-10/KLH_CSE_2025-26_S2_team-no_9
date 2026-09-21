@@ -1,0 +1,9 @@
+﻿Job ID: 83
+Title: Cloud Architect
+Company: NexGen Cloud Services
+Location: Ahmedabad
+Description: We are looking for a skilled Cloud Architect to join our team at NexGen Cloud Services in Ahmedabad. The ideal candidate will have experience with Angular, AWS, CSS, Flutter, Python and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 2-6 years
+Salary: 6-17 LPA
+Job Type: Internship
+Skills: Angular, AWS, CSS, Flutter, Python

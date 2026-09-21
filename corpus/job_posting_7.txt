@@ -1,0 +1,9 @@
+﻿Job ID: 7
+Title: Backend Developer
+Company: TechCorp Solutions
+Location: Chennai
+Description: We are looking for a skilled Backend Developer to join our team at TechCorp Solutions in Chennai. The ideal candidate will have experience with Agile, iOS, Node.js, React and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 1-5 years
+Salary: 6-25 LPA
+Job Type: Part-time
+Skills: Agile, iOS, Node.js, React

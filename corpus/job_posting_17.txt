@@ -1,0 +1,9 @@
+﻿Job ID: 17
+Title: DevOps Engineer
+Company: SecureNet Solutions
+Location: Hyderabad
+Description: We are looking for a skilled DevOps Engineer to join our team at SecureNet Solutions in Hyderabad. The ideal candidate will have experience with Docker, Git, Python, PyTorch, Scrum and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 3-5 years
+Salary: 10-28 LPA
+Job Type: Remote
+Skills: Docker, Git, Python, PyTorch, Scrum

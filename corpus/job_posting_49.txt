@@ -1,0 +1,9 @@
+﻿Job ID: 49
+Title: Data Scientist
+Company: MobileFirst Apps
+Location: Pune
+Description: We are looking for a skilled Data Scientist to join our team at MobileFirst Apps in Pune. The ideal candidate will have experience with Agile, Android, CSS, Scrum and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 1-5 years
+Salary: 14-29 LPA
+Job Type: Full-time
+Skills: Agile, Android, CSS, Scrum

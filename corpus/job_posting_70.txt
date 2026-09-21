@@ -1,0 +1,9 @@
+﻿Job ID: 70
+Title: Technical Lead
+Company: NexGen Cloud Services
+Location: Delhi
+Description: We are looking for a skilled Technical Lead to join our team at NexGen Cloud Services in Delhi. The ideal candidate will have experience with Docker, Figma, iOS, Spring Boot and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 3-5 years
+Salary: 14-35 LPA
+Job Type: Contract
+Skills: Docker, Figma, iOS, Spring Boot

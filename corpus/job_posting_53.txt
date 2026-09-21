@@ -1,0 +1,9 @@
+﻿Job ID: 53
+Title: Frontend Developer
+Company: Quality First Systems
+Location: Chandigarh
+Description: We are looking for a skilled Frontend Developer to join our team at Quality First Systems in Chandigarh. The ideal candidate will have experience with .NET, Django, Flutter, Laravel, NLP and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 2-5 years
+Salary: 14-27 LPA
+Job Type: Remote
+Skills: .NET, Django, Flutter, Laravel, NLP

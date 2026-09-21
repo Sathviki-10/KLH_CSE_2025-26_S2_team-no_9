@@ -1,0 +1,9 @@
+﻿Job ID: 52
+Title: Technical Lead
+Company: AppVenture Studios
+Location: Chandigarh
+Description: We are looking for a skilled Technical Lead to join our team at AppVenture Studios in Chandigarh. The ideal candidate will have experience with .NET, Android, Data Science, iOS, JavaScript and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 2-6 years
+Salary: 12-32 LPA
+Job Type: Remote
+Skills: .NET, Android, Data Science, iOS, JavaScript

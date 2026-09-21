@@ -1,0 +1,9 @@
+﻿Job ID: 21
+Title: Mobile Developer
+Company: Digital Dynamics
+Location: Madurai
+Description: We are looking for a skilled Mobile Developer to join our team at Digital Dynamics in Madurai. The ideal candidate will have experience with Flask, Java, Redis, SQL, TypeScript and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 3-7 years
+Salary: 6-23 LPA
+Job Type: Part-time
+Skills: Flask, Java, Redis, SQL, TypeScript

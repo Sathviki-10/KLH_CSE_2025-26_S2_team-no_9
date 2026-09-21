@@ -1,0 +1,9 @@
+﻿Job ID: 19
+Title: Senior Developer
+Company: AI Innovations Lab
+Location: Chennai
+Description: We are looking for a skilled Senior Developer to join our team at AI Innovations Lab in Chennai. The ideal candidate will have experience with Flask, Git, Machine Learning, React, UI/UX Design and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 1-4 years
+Salary: 9-25 LPA
+Job Type: Part-time
+Skills: Flask, Git, Machine Learning, React, UI/UX Design

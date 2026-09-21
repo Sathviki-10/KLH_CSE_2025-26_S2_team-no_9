@@ -1,0 +1,9 @@
+﻿Job ID: 45
+Title: Backend Developer
+Company: ConsultPro Services
+Location: Bhubaneswar
+Description: We are looking for a skilled Backend Developer to join our team at ConsultPro Services in Bhubaneswar. The ideal candidate will have experience with .NET, PyTorch, SQL and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 2-6 years
+Salary: 13-32 LPA
+Job Type: Full-time
+Skills: .NET, PyTorch, SQL

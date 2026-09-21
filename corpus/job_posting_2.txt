@@ -1,0 +1,9 @@
+﻿Job ID: 2
+Title: Database Administrator
+Company: TechCorp Solutions
+Location: Ahmedabad
+Description: We are looking for a skilled Database Administrator to join our team at TechCorp Solutions in Ahmedabad. The ideal candidate will have experience with Java, JavaScript, Kubernetes, MongoDB, React and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 3-6 years
+Salary: 6-27 LPA
+Job Type: Internship
+Skills: Java, JavaScript, Kubernetes, MongoDB, React

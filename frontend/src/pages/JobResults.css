@@ -140,6 +140,16 @@
   margin: 0;
 }
 
+.fallback-notice {
+  background: #fffbeb;
+  border: 1px solid #fcd34d;
+  color: #92400e;
+  padding: 12px 16px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  font-size: 14px;
+}
+
 .pagination {
   display: flex;
   justify-content: center;

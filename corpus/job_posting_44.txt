@@ -1,0 +1,9 @@
+﻿Job ID: 44
+Title: Backend Developer
+Company: ConsultPro Services
+Location: Delhi
+Description: We are looking for a skilled Backend Developer to join our team at ConsultPro Services in Delhi. The ideal candidate will have experience with Data Science, HTML, Machine Learning, Scrum and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 2-4 years
+Salary: 7-29 LPA
+Job Type: Contract
+Skills: Data Science, HTML, Machine Learning, Scrum

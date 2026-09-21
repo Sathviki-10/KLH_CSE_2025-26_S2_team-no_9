@@ -1,0 +1,9 @@
+﻿Job ID: 47
+Title: Machine Learning Engineer
+Company: Creative Digital Agency
+Location: Delhi
+Description: We are looking for a skilled Machine Learning Engineer to join our team at Creative Digital Agency in Delhi. The ideal candidate will have experience with CSS, Node.js, UI/UX Design and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 2-4 years
+Salary: 14-25 LPA
+Job Type: Remote
+Skills: CSS, Node.js, UI/UX Design

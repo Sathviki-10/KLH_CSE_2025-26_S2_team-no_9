@@ -1,0 +1,9 @@
+﻿Job ID: 84
+Title: Cloud Architect
+Company: StartupHub India
+Location: Noida
+Description: We are looking for a skilled Cloud Architect to join our team at StartupHub India in Noida. The ideal candidate will have experience with Agile, DevOps, Laravel and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 1-4 years
+Salary: 13-24 LPA
+Job Type: Internship
+Skills: Agile, DevOps, Laravel

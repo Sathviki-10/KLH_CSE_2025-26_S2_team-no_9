@@ -1,0 +1,9 @@
+﻿Job ID: 92
+Title: Project Manager
+Company: NexGen Cloud Services
+Location: Delhi
+Description: We are looking for a skilled Project Manager to join our team at NexGen Cloud Services in Delhi. The ideal candidate will have experience with .NET, HTML, MongoDB, PyTorch and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 2-6 years
+Salary: 12-33 LPA
+Job Type: Part-time
+Skills: .NET, HTML, MongoDB, PyTorch

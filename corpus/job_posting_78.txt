@@ -1,0 +1,9 @@
+﻿Job ID: 78
+Title: DevOps Engineer
+Company: GrowthBoost Media
+Location: Chennai
+Description: We are looking for a skilled DevOps Engineer to join our team at GrowthBoost Media in Chennai. The ideal candidate will have experience with C#, React, TensorFlow, UI/UX Design and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 2-5 years
+Salary: 10-27 LPA
+Job Type: Full-time
+Skills: C#, React, TensorFlow, UI/UX Design

@@ -1,0 +1,9 @@
+﻿Job ID: 10
+Title: Full Stack Developer
+Company: TechCorp Solutions
+Location: Kolkata
+Description: We are looking for a skilled Full Stack Developer to join our team at TechCorp Solutions in Kolkata. The ideal candidate will have experience with AWS, React, TypeScript and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 3-7 years
+Salary: 8-18 LPA
+Job Type: Contract
+Skills: AWS, React, TypeScript

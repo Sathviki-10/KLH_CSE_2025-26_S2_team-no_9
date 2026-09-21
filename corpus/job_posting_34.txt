@@ -1,0 +1,9 @@
+﻿Job ID: 34
+Title: Cloud Architect
+Company: ConsultPro Services
+Location: Chandigarh
+Description: We are looking for a skilled Cloud Architect to join our team at ConsultPro Services in Chandigarh. The ideal candidate will have experience with Agile, Docker, Scrum, Spring Boot, TensorFlow and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 1-5 years
+Salary: 10-23 LPA
+Job Type: Contract
+Skills: Agile, Docker, Scrum, Spring Boot, TensorFlow

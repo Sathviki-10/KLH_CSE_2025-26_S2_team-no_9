@@ -1,0 +1,9 @@
+﻿Job ID: 74
+Title: Data Scientist
+Company: MobileFirst Apps
+Location: Mumbai
+Description: We are looking for a skilled Data Scientist to join our team at MobileFirst Apps in Mumbai. The ideal candidate will have experience with Machine Learning, Node.js, PHP and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 3-5 years
+Salary: 5-24 LPA
+Job Type: Internship
+Skills: Machine Learning, Node.js, PHP

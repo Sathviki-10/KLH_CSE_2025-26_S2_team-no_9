@@ -1,14 +1,14 @@
 package com.smartjobportal.controller;
 
-import com.smartjobportal.dto.ApiResponse;
 import com.smartjobportal.model.User;
 import com.smartjobportal.service.DataService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
+import java.util.HashMap;
 import java.util.List;
-import java.util.Optional;
+import java.util.Map;
 
 @RestController
 @RequestMapping("/api/users")
@@ -19,29 +19,35 @@ public class UserController {
     private DataService dataService;
 
     @PostMapping
-    public ResponseEntity<ApiResponse<User>> createUser(@RequestBody User user) {
-        long newId = dataService.getAllUsers().stream()
-                .mapToLong(User::getId)
-                .max()
-                .orElse(0) + 1;
-        user.setId(newId);
-        user.setCreatedAt(java.time.LocalDateTime.now());
-        dataService.getAllUsers().add(user);
-        return ResponseEntity.ok(ApiResponse.success("User created successfully", user));
+    public ResponseEntity<Map<String, Object>> createUser(@RequestBody User user) {
+        User created = dataService.addUser(user);
+        Map<String, Object> result = new HashMap<>();
+        result.put("id", created.getId());
+        result.put("name", created.getName());
+        result.put("email", created.getEmail());
+        result.put("location", created.getLocation());
+        result.put("experience", created.getExperience());
+        return ResponseEntity.ok(result);
     }
 
     @GetMapping("/{id}")
-    public ResponseEntity<ApiResponse<Optional<User>>> getUser(@PathVariable Long id) {
+    public ResponseEntity<Map<String, Object>> getUser(@PathVariable Long id) {
         User user = dataService.getUserById(id);
         if (user != null) {
-            return ResponseEntity.ok(ApiResponse.success(Optional.of(user)));
+            Map<String, Object> userMap = new HashMap<>();
+            userMap.put("id", user.getId());
+            userMap.put("name", user.getName());
+            userMap.put("email", user.getEmail());
+            userMap.put("location", user.getLocation());
+            userMap.put("experience", user.getExperience());
+            return ResponseEntity.ok(userMap);
         }
-        return ResponseEntity.ok(ApiResponse.error("User not found"));
+        return ResponseEntity.status(404).body(Map.of("error", "User not found"));
     }
 
     @GetMapping
-    public ResponseEntity<ApiResponse<List<User>>> getAllUsers() {
+    public ResponseEntity<List<User>> getAllUsers() {
         List<User> users = dataService.getAllUsers();
-        return ResponseEntity.ok(ApiResponse.success(users));
+        return ResponseEntity.ok(users);
     }
 }

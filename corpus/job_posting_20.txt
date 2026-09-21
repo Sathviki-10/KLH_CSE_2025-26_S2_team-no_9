@@ -1,0 +1,9 @@
+﻿Job ID: 20
+Title: Project Manager
+Company: WebSol Technologies
+Location: Bangalore
+Description: We are looking for a skilled Project Manager to join our team at WebSol Technologies in Bangalore. The ideal candidate will have experience with Agile, MySQL, UI/UX Design, Vue.js and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 2-6 years
+Salary: 13-26 LPA
+Job Type: Internship
+Skills: Agile, MySQL, UI/UX Design, Vue.js

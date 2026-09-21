@@ -1,0 +1,9 @@
+﻿Job ID: 55
+Title: QA Engineer
+Company: NeuralTech AI
+Location: Kolkata
+Description: We are looking for a skilled QA Engineer to join our team at NeuralTech AI in Kolkata. The ideal candidate will have experience with Laravel, NLP, Scrum, SQL and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 2-5 years
+Salary: 6-23 LPA
+Job Type: Contract
+Skills: Laravel, NLP, Scrum, SQL

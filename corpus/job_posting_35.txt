@@ -1,0 +1,9 @@
+﻿Job ID: 35
+Title: Machine Learning Engineer
+Company: CryptoChain Labs
+Location: Chandigarh
+Description: We are looking for a skilled Machine Learning Engineer to join our team at CryptoChain Labs in Chandigarh. The ideal candidate will have experience with Docker, Flask, Flutter, Node.js, React, Vue.js and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 2-4 years
+Salary: 6-29 LPA
+Job Type: Full-time
+Skills: Docker, Flask, Flutter, Node.js, React, Vue.js

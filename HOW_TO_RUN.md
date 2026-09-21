@@ -79,6 +79,30 @@ Or click **Sign Up** to create a new account.
 
 ---
 
+## TextHack Text Analytics
+
+Navigate to **Text Analytics** in the header to access:
+
+### Algorithm Queries
+1. **Pattern Search** — KMP, Z-function, Rabin-Karp
+2. **Fuzzy Match** — Edit distance with configurable threshold
+3. **Document Similarity** — Jaccard, Cosine, Longest Common Substring
+4. **Suffix Analysis** — Suffix array, LCP (Kasai), Suffix Automaton
+5. **Multi-Pattern Search** — Aho-Corasick
+6. **Primality Testing** — Miller-Rabin randomized algorithm
+
+### API Endpoints
+```
+POST /api/text/pattern-search
+POST /api/text/fuzzy-match
+POST /api/text/similarity
+POST /api/text/suffix-analysis
+POST /api/text/multi-pattern
+POST /api/text/primality
+```
+
+---
+
 ## Quick Test Commands
 
 ```bash
@@ -93,6 +117,12 @@ curl "http://localhost:8080/api/jobs/search?q=Python&location=Bangalore"
 
 # Login
 curl -X POST http://localhost:8080/api/auth/login -H "Content-Type: application/json" -d "{\"email\":\"rahul.sharma@example.com\",\"password\":\"password123\"}"
+
+# Pattern search
+curl -X POST http://localhost:8080/api/text/pattern-search -H "Content-Type: application/json" -d "{\"text\":\"hello world hello\",\"pattern\":\"hello\"}"
+
+# Primality test
+curl -X POST http://localhost:8080/api/text/primality -H "Content-Type: application/json" -d "{\"number\":9973}"
 ```
 
 ---

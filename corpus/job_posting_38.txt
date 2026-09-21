@@ -1,0 +1,9 @@
+﻿Job ID: 38
+Title: Database Administrator
+Company: GrowthBoost Media
+Location: Noida
+Description: We are looking for a skilled Database Administrator to join our team at GrowthBoost Media in Noida. The ideal candidate will have experience with C#, DevOps, iOS, Java, React Native and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 1-5 years
+Salary: 6-17 LPA
+Job Type: Remote
+Skills: C#, DevOps, iOS, Java, React Native

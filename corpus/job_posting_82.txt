@@ -1,0 +1,9 @@
+﻿Job ID: 82
+Title: Backend Developer
+Company: Quality First Systems
+Location: Gurgaon
+Description: We are looking for a skilled Backend Developer to join our team at Quality First Systems in Gurgaon. The ideal candidate will have experience with Android, Figma, HTML, Kubernetes, NLP and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 1-3 years
+Salary: 14-29 LPA
+Job Type: Internship
+Skills: Android, Figma, HTML, Kubernetes, NLP

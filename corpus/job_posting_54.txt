@@ -1,0 +1,9 @@
+﻿Job ID: 54
+Title: Business Analyst
+Company: CryptoChain Labs
+Location: Kolkata
+Description: We are looking for a skilled Business Analyst to join our team at CryptoChain Labs in Kolkata. The ideal candidate will have experience with AWS, Django, Figma, TypeScript and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 1-4 years
+Salary: 5-28 LPA
+Job Type: Internship
+Skills: AWS, Django, Figma, TypeScript

@@ -1,0 +1,9 @@
+﻿Job ID: 77
+Title: Machine Learning Engineer
+Company: Creative Digital Agency
+Location: Bhubaneswar
+Description: We are looking for a skilled Machine Learning Engineer to join our team at Creative Digital Agency in Bhubaneswar. The ideal candidate will have experience with Android, Flutter, Machine Learning, Redis and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 1-4 years
+Salary: 14-26 LPA
+Job Type: Remote
+Skills: Android, Flutter, Machine Learning, Redis

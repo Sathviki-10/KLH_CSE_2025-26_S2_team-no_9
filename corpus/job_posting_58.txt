@@ -1,0 +1,9 @@
+﻿Job ID: 58
+Title: Mobile Developer
+Company: SecureNet Solutions
+Location: Kochi
+Description: We are looking for a skilled Mobile Developer to join our team at SecureNet Solutions in Kochi. The ideal candidate will have experience with .NET, Flask, Java, Project Management, React and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 1-4 years
+Salary: 12-32 LPA
+Job Type: Part-time
+Skills: .NET, Flask, Java, Project Management, React

@@ -25,7 +25,7 @@ const Header = ({ user, onLogout }) => {
               <button onClick={onLogout} className="btn-logout">Logout</button>
             </div>
           ) : (
-            <Link to="/login" className="btn-login" onClick={() => setMenuOpen(false)}>Sign In</Link>
+            <Link to="/login" className="nav-login" onClick={() => setMenuOpen(false)}>Sign In</Link>
           )}
         </nav>
         <button className="menu-toggle" onClick={() => setMenuOpen(!menuOpen)}>

@@ -1,0 +1,9 @@
+﻿Job ID: 93
+Title: Project Manager
+Company: Enterprise Systems Inc
+Location: Visakhapatnam
+Description: We are looking for a skilled Project Manager to join our team at Enterprise Systems Inc in Visakhapatnam. The ideal candidate will have experience with Angular, Django, Figma, HTML, NLP, TypeScript and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 3-5 years
+Salary: 14-37 LPA
+Job Type: Remote
+Skills: Angular, Django, Figma, HTML, NLP, TypeScript

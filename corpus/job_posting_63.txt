@@ -1,0 +1,9 @@
+﻿Job ID: 63
+Title: Security Analyst
+Company: ConsultPro Services
+Location: Gurgaon
+Description: We are looking for a skilled Security Analyst to join our team at ConsultPro Services in Gurgaon. The ideal candidate will have experience with AWS, HTML, PyTorch, UI/UX Design and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 3-6 years
+Salary: 12-33 LPA
+Job Type: Part-time
+Skills: AWS, HTML, PyTorch, UI/UX Design

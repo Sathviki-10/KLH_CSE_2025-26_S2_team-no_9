@@ -1,0 +1,9 @@
+﻿Job ID: 22
+Title: QA Engineer
+Company: WebWizards Pvt Ltd
+Location: Jaipur
+Description: We are looking for a skilled QA Engineer to join our team at WebWizards Pvt Ltd in Jaipur. The ideal candidate will have experience with Figma, PyTorch, React Native and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 1-5 years
+Salary: 7-17 LPA
+Job Type: Contract
+Skills: Figma, PyTorch, React Native

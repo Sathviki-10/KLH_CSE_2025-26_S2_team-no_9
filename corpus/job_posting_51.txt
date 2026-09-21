@@ -1,0 +1,9 @@
+﻿Job ID: 51
+Title: System Administrator
+Company: AI Innovations Lab
+Location: Goa
+Description: We are looking for a skilled System Administrator to join our team at AI Innovations Lab in Goa. The ideal candidate will have experience with C#, DevOps, Figma, NLP, Project Management, TypeScript and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 3-6 years
+Salary: 13-31 LPA
+Job Type: Part-time
+Skills: C#, DevOps, Figma, NLP, Project Management, TypeScript

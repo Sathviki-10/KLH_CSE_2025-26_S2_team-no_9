@@ -1,0 +1,9 @@
+﻿Job ID: 9
+Title: Network Engineer
+Company: TechCorp Solutions
+Location: Kochi
+Description: We are looking for a skilled Network Engineer to join our team at TechCorp Solutions in Kochi. The ideal candidate will have experience with Figma, Project Management, React, SQL, TensorFlow and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 2-4 years
+Salary: 11-29 LPA
+Job Type: Contract
+Skills: Figma, Project Management, React, SQL, TensorFlow

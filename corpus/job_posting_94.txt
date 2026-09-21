@@ -1,0 +1,9 @@
+﻿Job ID: 94
+Title: Product Manager
+Company: CloudScale Technologies
+Location: Jaipur
+Description: We are looking for a skilled Product Manager to join our team at CloudScale Technologies in Jaipur. The ideal candidate will have experience with Agile, Data Science, React Native, UI/UX Design and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 2-4 years
+Salary: 10-22 LPA
+Job Type: Internship
+Skills: Agile, Data Science, React Native, UI/UX Design

@@ -1,0 +1,9 @@
+﻿Job ID: 85
+Title: QA Engineer
+Company: DataStream Analytics
+Location: Mysore
+Description: We are looking for a skilled QA Engineer to join our team at DataStream Analytics in Mysore. The ideal candidate will have experience with CSS, Git, Laravel, Machine Learning, MySQL, Python and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 1-3 years
+Salary: 12-32 LPA
+Job Type: Internship
+Skills: CSS, Git, Laravel, Machine Learning, MySQL, Python

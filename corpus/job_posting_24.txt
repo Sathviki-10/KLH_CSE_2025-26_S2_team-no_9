@@ -1,0 +1,9 @@
+﻿Job ID: 24
+Title: System Administrator
+Company: AI Innovations Lab
+Location: Goa
+Description: We are looking for a skilled System Administrator to join our team at AI Innovations Lab in Goa. The ideal candidate will have experience with C#, DevOps, Laravel, Python and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 3-5 years
+Salary: 12-27 LPA
+Job Type: Contract
+Skills: C#, DevOps, Laravel, Python

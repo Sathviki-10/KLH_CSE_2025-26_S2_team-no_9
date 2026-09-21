@@ -1,0 +1,9 @@
+﻿Job ID: 40
+Title: Machine Learning Engineer
+Company: WebWizards Pvt Ltd
+Location: Kochi
+Description: We are looking for a skilled Machine Learning Engineer to join our team at WebWizards Pvt Ltd in Kochi. The ideal candidate will have experience with C#, Data Science, Django, MongoDB, React Native and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 3-5 years
+Salary: 6-27 LPA
+Job Type: Internship
+Skills: C#, Data Science, Django, MongoDB, React Native

@@ -1,0 +1,9 @@
+﻿Job ID: 30
+Title: Business Analyst
+Company: MobileFirst Apps
+Location: Kochi
+Description: We are looking for a skilled Business Analyst to join our team at MobileFirst Apps in Kochi. The ideal candidate will have experience with Agile, Android, Data Science, DevOps, Project Management, UI/UX Design and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 2-4 years
+Salary: 6-29 LPA
+Job Type: Internship
+Skills: Agile, Android, Data Science, DevOps, Project Management, UI/UX Design

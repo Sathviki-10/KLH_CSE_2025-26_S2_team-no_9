@@ -1,0 +1,9 @@
+﻿Job ID: 76
+Title: Database Administrator
+Company: NexGen Cloud Services
+Location: Chennai
+Description: We are looking for a skilled Database Administrator to join our team at NexGen Cloud Services in Chennai. The ideal candidate will have experience with DevOps, Flask, Git, NLP, UI/UX Design and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 3-5 years
+Salary: 6-22 LPA
+Job Type: Contract
+Skills: DevOps, Flask, Git, NLP, UI/UX Design

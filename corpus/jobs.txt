@@ -867,5 +867,60 @@
     "salary": "14-20 LPA",
     "job_type": "Full-time",
     "skills": ["Supply Chain", "Logistics", "Project Management", "Leadership", "Problem Solving", "Communication Skills", "Excel"]
+  },
+  {
+    "id": 81,
+    "title": "Remote Backend Engineer",
+    "company": "Northstar Labs",
+    "location": "Remote",
+    "description": "Build reliable APIs and event-driven services for a distributed product team.",
+    "experience": "2-5 years",
+    "salary": "16-24 LPA",
+    "job_type": "Remote",
+    "skills": ["Java", "Spring Boot", "REST API", "Docker", "AWS"]
+  },
+  {
+    "id": 82,
+    "title": "NLP Research Engineer",
+    "company": "BrightMind AI",
+    "location": "Bangalore",
+    "description": "Train and evaluate language models and ship practical natural language features.",
+    "experience": "3-6 years",
+    "salary": "24-36 LPA",
+    "job_type": "Full-time",
+    "skills": ["Python", "NLP", "Machine Learning", "PyTorch", "Data Science"]
+  },
+  {
+    "id": 83,
+    "title": "QA Automation Engineer",
+    "company": "Reliable Systems",
+    "location": "Pune",
+    "description": "Create automated test suites and improve release confidence across web applications.",
+    "experience": "1-4 years",
+    "salary": "9-16 LPA",
+    "job_type": "Full-time",
+    "skills": ["Testing", "Selenium", "Java", "Python", "Agile"]
+  },
+  {
+    "id": 84,
+    "title": "Product Design Intern",
+    "company": "Orbit Creative",
+    "location": "Remote",
+    "description": "Support product designers with research, wireframes, prototypes, and usability reviews.",
+    "experience": "0-1 years",
+    "salary": "4-7 LPA",
+    "job_type": "Internship",
+    "skills": ["UI/UX Design", "Figma", "Communication Skills"]
+  },
+  {
+    "id": 85,
+    "title": "Data Engineer",
+    "company": "Lakehouse Works",
+    "location": "Hyderabad",
+    "description": "Build dependable data pipelines and warehouse models for analytics teams.",
+    "experience": "3-6 years",
+    "salary": "20-30 LPA",
+    "job_type": "Full-time",
+    "skills": ["Python", "SQL", "Big Data", "AWS", "Spark"]
   }
 ]

@@ -1,0 +1,9 @@
+﻿Job ID: 5
+Title: Frontend Developer
+Company: CryptoChain Labs
+Location: Mysore
+Description: We are looking for a skilled Frontend Developer to join our team at CryptoChain Labs in Mysore. The ideal candidate will have experience with Android, Figma, Kubernetes, Node.js, SQL and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 3-5 years
+Salary: 8-32 LPA
+Job Type: Full-time
+Skills: Android, Figma, Kubernetes, Node.js, SQL

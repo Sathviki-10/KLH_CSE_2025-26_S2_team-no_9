@@ -1,0 +1,9 @@
+﻿Job ID: 66
+Title: Software Engineer
+Company: Digital Dynamics
+Location: Coimbatore
+Description: We are looking for a skilled Software Engineer to join our team at Digital Dynamics in Coimbatore. The ideal candidate will have experience with .NET, C#, JavaScript, Laravel, MongoDB and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 2-5 years
+Salary: 10-31 LPA
+Job Type: Internship
+Skills: .NET, C#, JavaScript, Laravel, MongoDB

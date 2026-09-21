@@ -1,0 +1,9 @@
+﻿Job ID: 14
+Title: Software Engineer
+Company: CryptoChain Labs
+Location: Chennai
+Description: We are looking for a skilled Software Engineer to join our team at CryptoChain Labs in Chennai. The ideal candidate will have experience with Angular, Django, Python, TensorFlow, TypeScript and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 3-6 years
+Salary: 8-25 LPA
+Job Type: Full-time
+Skills: Angular, Django, Python, TensorFlow, TypeScript

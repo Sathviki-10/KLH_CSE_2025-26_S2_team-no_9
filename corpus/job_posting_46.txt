@@ -1,0 +1,9 @@
+﻿Job ID: 46
+Title: Senior Developer
+Company: WebWizards Pvt Ltd
+Location: Kolkata
+Description: We are looking for a skilled Senior Developer to join our team at WebWizards Pvt Ltd in Kolkata. The ideal candidate will have experience with Angular, Figma, Machine Learning, TensorFlow and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 3-7 years
+Salary: 6-23 LPA
+Job Type: Internship
+Skills: Angular, Figma, Machine Learning, TensorFlow

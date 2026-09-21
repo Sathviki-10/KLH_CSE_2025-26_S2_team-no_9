@@ -1,0 +1,9 @@
+﻿Job ID: 15
+Title: Database Administrator
+Company: InsightData Corp
+Location: Mysore
+Description: We are looking for a skilled Database Administrator to join our team at InsightData Corp in Mysore. The ideal candidate will have experience with Data Science, Java, MySQL and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 2-6 years
+Salary: 13-36 LPA
+Job Type: Contract
+Skills: Data Science, Java, MySQL

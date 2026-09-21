@@ -1,0 +1,9 @@
+﻿Job ID: 23
+Title: Software Engineer
+Company: CryptoChain Labs
+Location: Bhubaneswar
+Description: We are looking for a skilled Software Engineer to join our team at CryptoChain Labs in Bhubaneswar. The ideal candidate will have experience with Data Science, DevOps, JavaScript, MySQL, Project Management and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 3-5 years
+Salary: 12-26 LPA
+Job Type: Contract
+Skills: Data Science, DevOps, JavaScript, MySQL, Project Management

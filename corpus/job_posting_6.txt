@@ -1,0 +1,9 @@
+﻿Job ID: 6
+Title: Data Scientist
+Company: GrowthBoost Media
+Location: Mangalore
+Description: We are looking for a skilled Data Scientist to join our team at GrowthBoost Media in Mangalore. The ideal candidate will have experience with CSS, Kubernetes, NLP, React Native and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 2-6 years
+Salary: 10-25 LPA
+Job Type: Internship
+Skills: CSS, Kubernetes, NLP, React Native

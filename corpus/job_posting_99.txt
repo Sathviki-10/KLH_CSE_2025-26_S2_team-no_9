@@ -1,0 +1,9 @@
+﻿Job ID: 99
+Title: QA Engineer
+Company: GrowthBoost Media
+Location: Gurgaon
+Description: We are looking for a skilled QA Engineer to join our team at GrowthBoost Media in Gurgaon. The ideal candidate will have experience with CSS, Redis, TensorFlow, TypeScript, UI/UX Design and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 3-6 years
+Salary: 6-17 LPA
+Job Type: Remote
+Skills: CSS, Redis, TensorFlow, TypeScript, UI/UX Design

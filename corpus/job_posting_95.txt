@@ -1,0 +1,9 @@
+﻿Job ID: 95
+Title: Full Stack Developer
+Company: GrowthBoost Media
+Location: Hyderabad
+Description: We are looking for a skilled Full Stack Developer to join our team at GrowthBoost Media in Hyderabad. The ideal candidate will have experience with Agile, MySQL, Node.js, PyTorch, TypeScript and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 1-4 years
+Salary: 10-32 LPA
+Job Type: Part-time
+Skills: Agile, MySQL, Node.js, PyTorch, TypeScript

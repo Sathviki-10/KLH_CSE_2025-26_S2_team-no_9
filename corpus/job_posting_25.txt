@@ -1,0 +1,9 @@
+﻿Job ID: 25
+Title: UI/UX Designer
+Company: TechCorp Solutions
+Location: Mysore
+Description: We are looking for a skilled UI/UX Designer to join our team at TechCorp Solutions in Mysore. The ideal candidate will have experience with Machine Learning, NLP, Python, Spring Boot, TensorFlow and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 2-4 years
+Salary: 5-17 LPA
+Job Type: Remote
+Skills: Machine Learning, NLP, Python, Spring Boot, TensorFlow

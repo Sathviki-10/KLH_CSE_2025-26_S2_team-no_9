@@ -15,9 +15,9 @@ const JobDetails = ({ user, onSaveJob, onUnsaveJob, savedJobIds = [] }) => {
     const fetchJob = async () => {
       try {
         setLoading(true);
-        const data = await getJob(id);
-        setJob(data.job);
-        setError(null);
+      const data = await getJob(id);
+      setJob(data);
+      setError(null);
       } catch (err) {
         setError('Failed to load job details');
       } finally {

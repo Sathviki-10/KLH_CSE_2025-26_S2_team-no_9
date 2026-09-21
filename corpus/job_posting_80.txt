@@ -1,0 +1,9 @@
+﻿Job ID: 80
+Title: Mobile Developer
+Company: StartupHub India
+Location: Delhi
+Description: We are looking for a skilled Mobile Developer to join our team at StartupHub India in Delhi. The ideal candidate will have experience with Git, SQL, TypeScript, Vue.js and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 3-5 years
+Salary: 7-20 LPA
+Job Type: Part-time
+Skills: Git, SQL, TypeScript, Vue.js

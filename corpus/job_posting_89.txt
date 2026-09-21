@@ -1,0 +1,9 @@
+﻿Job ID: 89
+Title: Software Engineer
+Company: CloudScale Technologies
+Location: Kochi
+Description: We are looking for a skilled Software Engineer to join our team at CloudScale Technologies in Kochi. The ideal candidate will have experience with Node.js, PHP, PyTorch and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 3-6 years
+Salary: 5-18 LPA
+Job Type: Remote
+Skills: Node.js, PHP, PyTorch

@@ -1,0 +1,9 @@
+﻿Job ID: 43
+Title: Full Stack Developer
+Company: NeuralTech AI
+Location: Bhubaneswar
+Description: We are looking for a skilled Full Stack Developer to join our team at NeuralTech AI in Bhubaneswar. The ideal candidate will have experience with Data Science, Java, Python, SQL and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 1-5 years
+Salary: 10-28 LPA
+Job Type: Full-time
+Skills: Data Science, Java, Python, SQL

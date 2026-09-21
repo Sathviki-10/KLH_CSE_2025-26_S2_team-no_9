@@ -20,6 +20,32 @@ C#
 .NET
 Django
 Flask
+REST API
+Git
+SQL
+Machine Learning
+Data Science
+TensorFlow
+PyTorch
+NLP
+Testing
+Selenium
+Agile
+Figma
+Communication Skills
+Big Data
+Spark
+Security
+Network
+React Native
+HR Management
+Recruitment
+Customer Service
+CRM
+Business Analysis
+Data Analysis
+Django
+Flask
 SQL
 Redis
 Git

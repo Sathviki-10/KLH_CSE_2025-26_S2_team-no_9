@@ -1,0 +1,9 @@
+﻿Job ID: 12
+Title: DevOps Engineer
+Company: AI Innovations Lab
+Location: Mysore
+Description: We are looking for a skilled DevOps Engineer to join our team at AI Innovations Lab in Mysore. The ideal candidate will have experience with CSS, Redis, Scrum and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 3-5 years
+Salary: 6-24 LPA
+Job Type: Remote
+Skills: CSS, Redis, Scrum

@@ -1,0 +1,9 @@
+﻿Job ID: 67
+Title: QA Engineer
+Company: StartupHub India
+Location: Jaipur
+Description: We are looking for a skilled QA Engineer to join our team at StartupHub India in Jaipur. The ideal candidate will have experience with Flutter, JavaScript, PyTorch, React, TensorFlow, Vue.js and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 3-5 years
+Salary: 9-33 LPA
+Job Type: Contract
+Skills: Flutter, JavaScript, PyTorch, React, TensorFlow, Vue.js

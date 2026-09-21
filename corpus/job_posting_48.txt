@@ -1,0 +1,9 @@
+﻿Job ID: 48
+Title: Product Manager
+Company: ConsultPro Services
+Location: Mumbai
+Description: We are looking for a skilled Product Manager to join our team at ConsultPro Services in Mumbai. The ideal candidate will have experience with Laravel, Project Management, Scrum, Spring Boot and a passion for building high-quality software solutions. You will work on challenging projects, collaborate with cross-functional teams, and contribute to the growth of our platform.
+Experience: 1-4 years
+Salary: 13-25 LPA
+Job Type: Remote
+Skills: Laravel, Project Management, Scrum, Spring Boot
